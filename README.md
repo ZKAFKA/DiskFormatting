@@ -1,7 +1,7 @@
 # DiskFormatting
 A Python script for data destruction
 
-#### Principle
+### Principle
 1. Delete all the files and directories;
 2. Formatting the disk:
    - Firstly, use b'\x01' to overwrite the disk.
